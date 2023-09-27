@@ -1,0 +1,8 @@
+s0u7a.gco,https://s0u7a.net/,xserver,09/26
+activetk.gco,https://activetk.jp/,???,??/??
+example.gco,https://example.com,Gadai,09/27
+Netrooms.gco.cht,https://netroom.co.jp,Gadai,09/27
+X.gco.social,https://Twitter.com,Gadai,09/27
+Youtube.gco,https://Youtube.com,Gadai,09/27
+Python.gco.org,https://Python.org,Gadai,09/27
+github.gco,https://github.com,Gadai,09/27
